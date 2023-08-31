@@ -1,0 +1,12 @@
+{
+  "name": "scimify",
+  "description": "SCIMIFY",
+  "url": "hhttps://github.com/scimify4me/scimify.git",
+  "categories": [
+    "user-management",
+    "authentication",
+    "authorization",
+    "integration-etwork",
+    "api-authentication"
+  ]
+}
